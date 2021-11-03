@@ -1,5 +1,7 @@
-# Heya! Power core simulator is a text based nuclear power core simulator. You can choose whetever to enable stuff, or not, but these things will affect the temperature of the core!
-# The current temperature for a freezedown is -4000, and for a meltdown it's 4000.
-# I'll be trying to update it for as long as possible so it's more fun.
-# Anyways, thanks for reading this and I hope you enjoy the simulator!
-# Discord: BananaJeans#5704
+# Power Core Simulator
+Power Core Simulator is a simulator based off the Roblox game "Pinewood Builders Computer Core".
+In this simulator, you can choose your own settings, and your options will affect the temperature!
+# Future Plans
+I plan to update this game in the future too, I'm very new to coding so I might have to take some time learning more advanced stuff.
+# Contact
+You can contact me on discord. BananaJeans#5704
