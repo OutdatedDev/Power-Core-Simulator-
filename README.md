@@ -1,5 +1,6 @@
 <img src="images/coresimlogo.png" align="right" />
 
+
 [![OutdatedDev - Power-Core-Simulator-](https://img.shields.io/static/v1?label=OutdatedDev&message=Power-Core-Simulator-&color=blue&logo=github)](https://github.com/OutdatedDev/Power-Core-Simulator- "Go to GitHub repo")
 [![stars - Power-Core-Simulator-](https://img.shields.io/github/stars/OutdatedDev/Power-Core-Simulator-?style=social)](https://github.com/OutdatedDev/Power-Core-Simulator-)
 [![forks - Power-Core-Simulator-](https://img.shields.io/github/forks/OutdatedDev/Power-Core-Simulator-?style=social)](https://github.com/OutdatedDev/Power-Core-Simulator-)
@@ -7,6 +8,7 @@
 [![GitHub release](https://img.shields.io/github/release/OutdatedDev/Power-Core-Simulator-?include_prereleases=&sort=semver&color=blue)](https://github.com/OutdatedDev/Power-Core-Simulator-/releases/)
 [![License](https://img.shields.io/badge/License-WTFPL-blue)](#license)
 [![issues - Power-Core-Simulator-](https://img.shields.io/github/issues/OutdatedDev/Power-Core-Simulator-)](https://github.com/OutdatedDev/Power-Core-Simulator-/issues)
+<img src="images/bat.png" width="25" height="21" align="middle" />
    
 
 # Power Core Simulator
