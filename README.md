@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="icon.png">
 # Power Core Simulator
 Power Core Simulator is a simulator based off the Roblox game "Pinewood Builders Computer Core".
 In this simulator, you can choose your own settings, and your options will affect the temperature!
