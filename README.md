@@ -10,6 +10,8 @@
    
 
 # Power Core Simulator
+[![Game info -  ](https://img.shields.io/badge/Game_info-_-2ea44f?style=for-the-badge&logo=python)](https://github.com/OutdatedDev/Power-Core-Simulator-/blob/main/Information.md)
+
 Power Core Simulator is a console based game, where you can simulate the temperature of a computer core!
 You can can choose whetever to enable or disable stuff, choose the amount of lasers/fans, and much more!
 But things might not always go your way. Depending on if you have set the power to a unstable level, or have sabotaged it, RNG will play a role in this game!
