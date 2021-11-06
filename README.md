@@ -1,4 +1,4 @@
-<img src="coresimlogo.png" align="right" />
+<img src="images/coresimlogo.png" align="right" />
 
 [![OutdatedDev - Power-Core-Simulator-](https://img.shields.io/static/v1?label=OutdatedDev&message=Power-Core-Simulator-&color=blue&logo=github)](https://github.com/OutdatedDev/Power-Core-Simulator- "Go to GitHub repo")
 [![stars - Power-Core-Simulator-](https://img.shields.io/github/stars/OutdatedDev/Power-Core-Simulator-?style=social)](https://github.com/OutdatedDev/Power-Core-Simulator-)
