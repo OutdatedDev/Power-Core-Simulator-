@@ -1,12 +1,33 @@
-<img src="icon.png">
+<img src="coresimlogo.png" align="right" />
+
+[![OutdatedDev - Power-Core-Simulator-](https://img.shields.io/static/v1?label=OutdatedDev&message=Power-Core-Simulator-&color=blue&logo=github)](https://github.com/OutdatedDev/Power-Core-Simulator- "Go to GitHub repo")
+[![stars - Power-Core-Simulator-](https://img.shields.io/github/stars/OutdatedDev/Power-Core-Simulator-?style=social)](https://github.com/OutdatedDev/Power-Core-Simulator-)
+[![forks - Power-Core-Simulator-](https://img.shields.io/github/forks/OutdatedDev/Power-Core-Simulator-?style=social)](https://github.com/OutdatedDev/Power-Core-Simulator-)
+
+[![GitHub release](https://img.shields.io/github/release/OutdatedDev/Power-Core-Simulator-?include_prereleases=&sort=semver&color=blue)](https://github.com/OutdatedDev/Power-Core-Simulator-/releases/)
+[![License](https://img.shields.io/badge/License-WTFPL-blue)](#license)
+[![issues - Power-Core-Simulator-](https://img.shields.io/github/issues/OutdatedDev/Power-Core-Simulator-)](https://github.com/OutdatedDev/Power-Core-Simulator-/issues)
+   
+
 # Power Core Simulator
-Power Core Simulator is a simulator based off the Roblox game "Pinewood Builders Computer Core".
-In this simulator, you can choose your own settings, and your options will affect the temperature!
-Instead of downloading the exe, you can also run the code at [repl.it](https://replit.com/@RK26/Power-Core-Simulator#main.py)
+Power Core Simulator is a console based game, where you can simulate the temperature of a computer core!
+You can can choose whetever to enable or disable stuff, choose the amount of lasers/fans, and much more!
+But things might not always go your way. Depending on if you have set the power to a unstable level, or have sabotaged it, RNG will play a role in this game!
+
 # Future Plans
-I plan to update this game in the future too, I'm very new to coding so I might have to take some time learning more advanced stuff.
-# Contact
-You can contact me on discord. BananaJeans#5704
-# PS: False positive
-You may enconter a false positive when running the exe, and currently I am working on fixing it.
-[Virustotal](https://www.virustotal.com/gui/file/1e77c0fe88b1981eef031d47b84b6bed77eef07dbbc677f54d95b756418c0fad/detection)
+I am planning to take this game further in the future by making it a window based game so it's easier to use.
+I will also be adding new features, such as continuing after temperature has been calculated, random events, etc.
+But for now I'll be learning the basics of python.
+
+# Current features
+- Calculating the temperature per 8 seconds
+- Special events
+- Easter eggs
+- Titles
+
+## License
+
+Released under [WTFPL](/LICENSE) by [@OutdatedDev](https://github.com/OutdatedDev)
+  
+
+
