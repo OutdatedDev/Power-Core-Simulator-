@@ -10,7 +10,8 @@
    
 
 # Power Core Simulator
-[![Game info -  ](https://img.shields.io/badge/Game_info-_-2ea44f?style=for-the-badge&logo=python)](https://github.com/OutdatedDev/Power-Core-Simulator-/blob/main/Information.md)
+[![game info -  ](https://img.shields.io/badge/game_info-_-2ea44f?style=for-the-badge&logo=python&logoColor=white)](https://github.com/OutdatedDev/Power-Core-Simulator-/blob/main/Information.md)
+[![Repl.it -  ](https://img.shields.io/badge/Repl.it-_-2ea44f?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@RK26/Power-Core-Simulator#main.py)
 
 Power Core Simulator is a console based game, where you can simulate the temperature of a computer core!
 You can can choose whetever to enable or disable stuff, choose the amount of lasers/fans, and much more!
